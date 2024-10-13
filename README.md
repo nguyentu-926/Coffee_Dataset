@@ -4,6 +4,11 @@ Mục tiêu của Notebook là phân tích và dự đoán mức xuất khẩu, 
 Nội dung Notebook gồm 4 phần sau:
 
 Khám phá Dataset về mức xuất khẩu Cà phê.
+
 Khám phá Dataset về mức nhập khẩu Cà phê.
+
 Phân tích thị trường tiêu thụ cà phê tiềm năng.
+
 Kết luận
+
+Link Kaggle: https://www.kaggle.com/code/nguyentu926/the-largest-exporters-and-importers-of-coffee/edit
